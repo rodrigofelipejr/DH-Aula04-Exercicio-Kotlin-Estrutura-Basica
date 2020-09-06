@@ -1,4 +1,4 @@
-# Lista de exercícios
+# Lista de Exercícios
 
 1 - Escrever o código que deve analisar três números inteiros e retornar o maior
 deles.
